@@ -1,2 +1,2 @@
 # Android-ToDoList-App
-This is a sample android project to practice some RxJava operator functionality.
+This is a sample android project to practice some RxJava operator's functionality.
